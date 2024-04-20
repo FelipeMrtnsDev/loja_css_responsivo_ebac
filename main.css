@@ -68,6 +68,10 @@ nav h3 {
     font-size: 25px;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 .content {
     margin-bottom: 5vw;
     margin-top: 3vw;
